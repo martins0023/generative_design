@@ -48,11 +48,11 @@ const Home = () => {
                 customStyles="w-fit px-4 py-2.5 font-bold text-sm"
               />
 
-              <a href='https://express-design.vercel.app'>
+              <a href='https://ob-designs.vercel.app/'>
                 <CustomButton 
                   type="filled"
                   title="Create design"
-                  onClick={() => "https://express-design.vercel.app"}
+                  onClick={() => "https://ob-designs.vercel.app/"}
                   customStyles="w-fit px-4 py-2.5 font-bold text-sm"
                   
                 />
